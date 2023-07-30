@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubayet Hasan Yasin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack web developer and tech enthusiast. Welcome to my GitHub profile! 👋</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rubayet-hasan-yasin?tab=repositories](https://github.com/Rubayet-hasan-yasin?tab=repositories)
 
@@ -27,23 +27,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-👋 Hello
-Welcome to my profile, though nothing much init now. <br>
-Hope it'll be more enriched in near future. <br>
-Kudos ❤️
-
-Till now my expertise:
-!HTML5
-!CSS3
-!Bootstrap
-!TailwindCSS
-!SASS 
-!JavaScript
-!React
-!ExpressJS
-!MongoDB
-
-
-Learning
-!NodeJS
-!Next JSTypeScript
