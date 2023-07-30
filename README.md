@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubayet Hasan Yasin</h1>
-<h3 align="center">A passionate MERN stack web developer and tech enthusiast. Welcome to my GitHub profile! 👋</h3>
+<h3 align="center">A passionate MERN stack web developer. Welcome to my GitHub profile! 👋</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rubayet-hasan-yasin?tab=repositories](https://github.com/Rubayet-hasan-yasin?tab=repositories)
 
