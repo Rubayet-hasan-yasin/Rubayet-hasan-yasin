@@ -27,50 +27,23 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Hi there! I'm Rubayet Hasan Yasin, a passionate MERN stack web developer and tech enthusiast. Welcome to my GitHub profile! 👋 -->
+👋 Hello
+Welcome to my profile, though nothing much init now. <br>
+Hope it'll be more enriched in near future. <br>
+Kudos ❤️
 
-<p align="center">
-  <img src="https://your-image-url-here" alt="Rubayet Hasan Yasin" width="200" height="200" />
-</p>
+Till now my expertise:
+!HTML5
+!CSS3
+!Bootstrap
+!TailwindCSS
+!SASS 
+!JavaScript
+!React
+!ExpressJS
+!MongoDB
 
-### 📝 About Me
 
-I'm Rubayet Hasan Yasin, a dedicated and motivated web developer with a strong interest in creating impactful and user-friendly web applications. I have a solid foundation in the MERN stack and a thirst for learning new technologies and best practices in the ever-evolving world of web development.
-
-### 🚀 Technologies & Tools
-
-- Frontend: HTML, CSS, JavaScript, ReactJS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Version Control: Git
-- IDE: Visual Studio Code
-
-### 🌱 Currently Learning
-
-I believe in continuous learning, and right now, I'm exploring the realms of TypeScript and GraphQL to level up my skills and build more efficient and scalable applications.
-
-### 🏆 My Projects
-
-Here are some of my notable projects:
-
-1. [Project 1](https://github.com/your-username/project-1): Brief description of the project.
-2. [Project 2](https://github.com/your-username/project-2): Brief description of the project.
-3. [Project 3](https://github.com/your-username/project-3): Brief description of the project.
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Stats" />
-</p>
-
-### 🤝 Let's Connect
-
-Feel free to reach out to me! I'm always open to interesting discussions, collaboration, or just to say hi. You can find me on the following platforms:
-
-- LinkedIn: [Rubayet Hasan Yasin](https://www.linkedin.com/in/rubayet-yasin/)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-### 🙏 Thanks for visiting!
-
-Thank you for taking the time to explore my GitHub profile. If you find any of my projects interesting or helpful, don't forget to give them a ⭐️. Happy coding! 😄
-
+Learning
+!NodeJS
+!Next JSTypeScript
