@@ -26,3 +26,51 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Hi there! I'm Rubayet Hasan Yasin, a passionate MERN stack web developer and tech enthusiast. Welcome to my GitHub profile! 👋 -->
+
+<p align="center">
+  <img src="https://your-image-url-here" alt="Rubayet Hasan Yasin" width="200" height="200" />
+</p>
+
+### 📝 About Me
+
+I'm Rubayet Hasan Yasin, a dedicated and motivated web developer with a strong interest in creating impactful and user-friendly web applications. I have a solid foundation in the MERN stack and a thirst for learning new technologies and best practices in the ever-evolving world of web development.
+
+### 🚀 Technologies & Tools
+
+- Frontend: HTML, CSS, JavaScript, ReactJS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git
+- IDE: Visual Studio Code
+
+### 🌱 Currently Learning
+
+I believe in continuous learning, and right now, I'm exploring the realms of TypeScript and GraphQL to level up my skills and build more efficient and scalable applications.
+
+### 🏆 My Projects
+
+Here are some of my notable projects:
+
+1. [Project 1](https://github.com/your-username/project-1): Brief description of the project.
+2. [Project 2](https://github.com/your-username/project-2): Brief description of the project.
+3. [Project 3](https://github.com/your-username/project-3): Brief description of the project.
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🤝 Let's Connect
+
+Feel free to reach out to me! I'm always open to interesting discussions, collaboration, or just to say hi. You can find me on the following platforms:
+
+- LinkedIn: [Rubayet Hasan Yasin](https://www.linkedin.com/in/rubayet-yasin/)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+### 🙏 Thanks for visiting!
+
+Thank you for taking the time to explore my GitHub profile. If you find any of my projects interesting or helpful, don't forget to give them a ⭐️. Happy coding! 😄
+
