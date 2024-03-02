@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://github.com/Rubayet-hasan-yasin/Rubayet-hasan-yasin/blob/main/banner.jpg?raw=true" alt="cover" />
+<img width="100%" src="https://github.com/Rubayet-hasan-yasin/Rubayet-hasan-yasin/blob/main/cover.jpg?raw=true" alt="cover" />
 </div>
 
 <br/>
