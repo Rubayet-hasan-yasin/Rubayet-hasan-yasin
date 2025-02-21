@@ -58,7 +58,7 @@
 
 <br>
 
-![snake gif](https://github.com/Rubayet-hasan-yasin/Rubayet-hasan-yasin/blob/output/github-snake.svg?timestamp=2025)
+![snake gif](https://github.com/Rubayet-hasan-yasin/Rubayet-hasan-yasin/blob/output/github-snake.svg)
 
 
 
