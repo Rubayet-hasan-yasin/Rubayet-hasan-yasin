@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning Go and React-Native.
 
-- 💬 Talk to me about React, JavaScript, GO etc.
+- 💬 Talk to me about React, JavaScript, Go etc.
  - 📫 Reach me at **rubayethasanyasin@gmail.com**  
 
 <br>
