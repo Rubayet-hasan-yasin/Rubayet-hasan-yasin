@@ -25,9 +25,9 @@
 
 - 🔭 I’m currently working at [Dream Group](https://github.com/Rubayet-hasan-yasin?tab=repositories)  
 
-- 🌱 I’m currently learning TypeScript, React-Native, c# & python.
+- 🌱 I’m currently learning Go and React-Native.
 
-- 💬 Talk to me about React, JavaScript, pyhton etc.
+- 💬 Talk to me about React, JavaScript, GO etc.
  - 📫 Reach me at **rubayethasanyasin@gmail.com**  
 
 <br>
